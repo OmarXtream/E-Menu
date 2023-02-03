@@ -41,7 +41,7 @@
       
 
         <div class="module module-logo">
-            <a href="index.html">
+            <a href="#">
                 <img src="assets/img/logo-horizontal-dark.svg" alt="">
             </a>
         </div>
