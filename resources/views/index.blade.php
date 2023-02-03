@@ -36,7 +36,19 @@
     <!-- Header / End -->
 
 
+    <header id="header-mobile" class="light">
 
+      
+
+        <div class="module module-logo">
+            <a href="index.html">
+                <img src="assets/img/logo-horizontal-dark.svg" alt="">
+            </a>
+        </div>
+
+     
+
+    </header>
     <!-- Content -->
     <div id="content">
 
